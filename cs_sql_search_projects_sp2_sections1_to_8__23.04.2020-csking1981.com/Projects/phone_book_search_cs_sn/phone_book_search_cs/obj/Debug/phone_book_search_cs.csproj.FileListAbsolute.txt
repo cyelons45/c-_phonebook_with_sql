@@ -1,0 +1,10 @@
+C:\Users\Rec User\source\repos\phone_book_search_cs_sn\phone_book_search_cs\bin\Debug\phone_book_search_cs.exe
+C:\Users\Rec User\source\repos\phone_book_search_cs_sn\phone_book_search_cs\bin\Debug\phone_book_search_cs.pdb
+C:\Users\Rec User\source\repos\phone_book_search_cs_sn\phone_book_search_cs\obj\Debug\phone_book_search_cs.Form1.resources
+C:\Users\Rec User\source\repos\phone_book_search_cs_sn\phone_book_search_cs\obj\Debug\phone_book_search_cs.Properties.Resources.resources
+C:\Users\Rec User\source\repos\phone_book_search_cs_sn\phone_book_search_cs\obj\Debug\phone_book_search_cs.csproj.GenerateResource.cache
+C:\Users\Rec User\source\repos\phone_book_search_cs_sn\phone_book_search_cs\obj\Debug\phone_book_search_cs.csproj.CoreCompileInputs.cache
+C:\Users\Rec User\source\repos\phone_book_search_cs_sn\phone_book_search_cs\obj\Debug\phone_book_search_cs.exe
+C:\Users\Rec User\source\repos\phone_book_search_cs_sn\phone_book_search_cs\obj\Debug\phone_book_search_cs.pdb
+C:\Users\Rec User\source\repos\phone_book_search_cs_sn\phone_book_search_cs\bin\Debug\phone_book_search_cs.exe.config
+C:\Users\Rec User\source\repos\phone_book_search_cs_sn\phone_book_search_cs\obj\Debug\phone_book_search_cs.csprojAssemblyReference.cache
